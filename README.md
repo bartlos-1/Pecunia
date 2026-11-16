@@ -1,4 +1,6 @@
-yurii.bezborodov@ucalgary.ca; tamerlan.ormanbayev@ucalgary.ca
+# Pecunia
+
+Built by Yurii Bezborodov and Tamerlan Ormanbayev.
 
 Pecunia v1.0 is a financial expenses tracking application.
 
